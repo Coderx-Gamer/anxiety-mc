@@ -20,7 +20,20 @@ public class Constants {
             Text.of("Friendly reminder that falling will lose all your progress...."),
             Text.of("You won't be so lucky this time.."),
             Text.of("Take a minute to question if you are going to fall."),
-            Text.of("Will you fall?")
+            Text.of("Will you fall?"),
+            Text.of("Is that a monster behind you?"),
+            Text.of("Hope the game dosent freeze!"),
+            Text.of("Did you bring a totem?"),
+            Text.of("Are sticky keys enabled?"),
+            Text.of("That shift key looks very jittery!"),
+            Text.of("What do you mean you wont fall?"),
+            Text.of("I think your mother is calling you..."),
+            Text.of("Maybe bridging is not a great idea here"),
+            Text.of("Make better life choises, or you may not have a life..."),
+            Text.of("BOO!"),
+            Text.of("Well thats a scary fall!"),
+            Text.of("Are you sure this is the best of your ideas?"),
+            Text.of("I think thats a ghost block...")
     });
 
     // get a random anxiety message from ANXIETY_MESSAGES
